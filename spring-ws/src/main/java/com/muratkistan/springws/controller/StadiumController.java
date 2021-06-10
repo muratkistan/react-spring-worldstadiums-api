@@ -27,6 +27,7 @@ public class StadiumController {
 		super();
 		this.stadiumService = stadiumService;
 	}
+	// deneme
 	
 	
 	@GetMapping("/stadiums")
