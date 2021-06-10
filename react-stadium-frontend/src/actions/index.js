@@ -37,5 +37,7 @@ export const stadiumSil = (id, close, push) => dispatch =>{
 
 export const showStadiumByProperty= (value)=> dispatch =>{
     dispatch({type: 'PROPERTY',payload: value})
+
+    // deneme
 }
 
