@@ -10,12 +10,12 @@ I used;
 
 
 
-##  Stadium List
+##  Stadium List Page
 ![StadiumList](https://user-images.githubusercontent.com/67208557/121614352-23714480-ca67-11eb-8dbf-87e2d41643bd.PNG)
 
-##  Stadium Page
+##  Stadium Detail Page
 ![StadiumPage](https://user-images.githubusercontent.com/67208557/121614483-721ede80-ca67-11eb-9f0a-6fae2ade997a.PNG)
 
 ##  Stadium Form
-![StadiumForm](https://user-images.githubusercontent.com/67208557/121614534-8d89e980-ca67-11eb-8a79-7e364820e9dd.PNG)
+![stadium_edit_form](https://user-images.githubusercontent.com/67208557/132590805-554e61e2-c9d3-436c-a7d6-c5cf747484b7.PNG)
 
