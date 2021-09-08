@@ -8,6 +8,9 @@ I used;
 * **Lombok** to get rid of code clutter
 * **Bootstrap** and **Semantic UI** as UI
 
+You can easily test APIs with **Swagger**
+
+
 
 
 ##  Stadium List Page
