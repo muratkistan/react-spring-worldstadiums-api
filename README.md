@@ -7,6 +7,7 @@ I used;
 * **PostgreSQL** as database
 * **Lombok** to get rid of code clutter
 * **Bootstrap** and **Semantic UI** as UI
+*  **Redux
 
 You can easily test APIs with **Swagger**
 
